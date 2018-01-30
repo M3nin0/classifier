@@ -1,0 +1,500 @@
+;Pequines;pequeno;2.5;15.0
+;Fila;gigante;40.0;60.0
+;Bloodhound;grande;40.0;60.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Maltes;mini;3.0;20.0
+;Fila;gigante;40.0;60.0
+;Chihuahua;mini;3.0;16.0
+;Boxer;grande;25.0;53.0
+;Pug;pequeno;6.0;25.0
+;Pequines;pequeno;2.5;15.0
+;Dalmata;grande;24.0;54.0
+;Poodle Toy;mini;2.0;24.0
+;Maltes;mini;3.0;20.0
+;Dogue Alemao;gigante;50.0;72.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Shin Tsu;pequeno;1.0;18.0
+;Bull Terrier;medio;23.0;35.0
+;Basenji;pequeno;11.0;40.0
+;Shar Pei;medio;17.0;44.0
+;Beagle;pequeno;8.0;39.0
+;Akita;grande;30.0;58.0
+;Pequines;pequeno;2.5;18.0
+;Puli;medio;10.0;36.0
+;Pastor Polones;medio;15.0;42.0
+;Dobermann;grande;32.0;63.0
+;Pequines;pequeno;5.0;15.0
+;Komondor;gigante;53.0;65.0
+;Affenpinscher;mini;3.0;25.0
+;Collie;grande;27.0;51.0
+;Shin Tsu;pequeno;1.0;22.0
+;Mastim;gigante;55.0;72.0
+;Bull Terrier;medio;23.0;35.0
+;Shar Pei;medio;15.0;44.0
+;Beagle;pequeno;10.0;33.0
+;Maltes;mini;3.0;20.0
+;Sao Bernardo;gigante;72.0;65.0
+;Dobermann;grande;32.0;63.0
+;Bull Terrier;medio;23.0;35.0
+;Pequines;pequeno;5.0;24.0
+;Puli;medio;10.0;36.0
+;Collie;grande;26.0;61.0
+;Affenpinscher;mini;4.0;25.0
+;Dalmata;grande;24.0;61.0
+;Maltes;mini;3.0;20.0
+;Pequines;pequeno;5.0;19.0
+;Komondor;gigante;40.0;65.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Fila;gigante;40.0;60.0
+;Bichon Frise;mini;2.5;25.0
+;Lulu da Pomerania;mini;3.0;18.0
+;Mastim;gigante;55.0;72.0
+;Mastim;gigante;55.0;72.0
+;Shar Pei;medio;15.0;44.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Bloodhound;grande;40.0;60.0
+;Maltes;mini;3.0;20.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Komondor;gigante;40.0;65.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Sao Bernardo;gigante;55.0;65.0
+;Bull Terrier;medio;23.0;35.0
+;Schnauzer Medio;medio;15.0;45.0
+;Shar Pei;medio;15.0;49.0
+;Dobermann;grande;32.0;63.0
+;Pug;pequeno;6.0;25.0
+;Chihuahua;mini;2.0;17.0
+;Akita;grande;30.0;58.0
+;Pastor Polones;medio;15.0;42.0
+;Chihuahua;mini;3.0;17.0
+;Pug;pequeno;6.0;27.0
+;Collie;grande;18.0;55.0
+;Akita;grande;43.0;58.0
+;Pastor Alemao;grande;22.0;55.0
+;Pequines;pequeno;2.5;15.0
+;Shin Tsu;pequeno;1.0;7.3
+;Collie;grande;18.0;51.0
+;Shar Pei;medio;15.0;44.0
+;Border Colie;medio;15.0;47.0
+;Shin Tsu;pequeno;1.0;10.0
+;Poodle Toy;mini;2.0;24.0
+;Border Colie;medio;15.0;47.0
+;Bloodhound;grande;44.0;60.0
+;Poodle Medio;medio;12.0;38.0
+;Border Colie;medio;15.0;47.0
+;Pastor Polones;medio;15.0;42.0
+;Shin Tsu;pequeno;2.0;14.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Collie;grande;21.0;61.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Affenpinscher;mini;1.0;25.0
+;Maltes;mini;3.0;22.0
+;Poodle Toy;mini;3.0;24.0
+;Sao Bernardo;gigante;90.0;82.0
+;Rafeiro do Alentejo;gigante;35.0;66.0
+;Affenpinscher;mini;3.0;25.0
+;Dalmata;grande;24.0;54.0
+;Schnauzer Medio;medio;14.0;45.0
+;Maltes;mini;3.0;20.0
+;Pastor Alemao;grande;22.0;55.0
+;Bichon Frise;mini;3.0;26.0
+;Yorkshire;mini;2.0;20.0
+;Bichon Frise;mini;3.0;26.0
+;Border Colie;medio;15.0;47.0
+;Akita;grande;37.0;58.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Border Colie;medio;15.0;47.0
+;Fila;gigante;40.0;60.0
+;Border Colie;medio;15.0;47.0
+;Dobermann;grande;32.0;63.0
+;Shar Pei;medio;15.0;44.0
+;Pequines;pequeno;4.0;23.0
+;Terra Nova;gigante;63.0;66.0
+;Mastim;gigante;55.0;72.0
+;Akita;grande;30.0;58.0
+;Basenji;pequeno;9.5;40.0
+;Beagle;pequeno;8.0;33.0
+;Fila;gigante;40.0;60.0
+;Terra Nova;gigante;54.0;70.0
+;Pastor Polones;medio;15.0;42.0
+;Akita;grande;48.0;58.0
+;Mastim;gigante;55.0;72.0
+;Bloodhound;grande;40.0;60.0
+;Pastor Polones;medio;15.0;42.0
+;Basenji;pequeno;9.5;40.0
+;Dalmata;grande;26.0;54.0
+;Fila;gigante;40.0;60.0
+;Komondor;gigante;43.0;65.0
+;Boxer;grande;25.0;53.0
+;Komondor;gigante;40.0;65.0
+;Pug;pequeno;6.0;25.0
+;Border Colie;medio;15.0;47.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Fila;gigante;40.0;60.0
+;Collie;grande;28.0;51.0
+;Pastor Alemao;grande;40.0;55.0
+;Affenpinscher;mini;2.0;25.0
+;Beagle;pequeno;8.0;33.0
+;Shin Tsu;pequeno;3.0;7.3
+;Bloodhound;grande;40.0;60.0
+;Akita;grande;30.0;67.0
+;Dobermann;grande;32.0;66.0
+;Collie;grande;24.0;51.0
+;Terra Nova;gigante;54.0;66.0
+;Beagle;pequeno;8.0;33.0
+;Shar Pei;medio;15.0;44.0
+;Terra Nova;gigante;62.0;66.0
+;Terra Nova;gigante;54.0;66.0
+;Dalmata;grande;24.0;54.0
+;Dobermann;grande;43.0;63.0
+;Chihuahua;mini;2.0;17.0
+;Border Colie;medio;20.0;47.0
+;Shin Tsu;pequeno;2.0;23.0
+;Terra Nova;gigante;62.0;66.0
+;Basenji;pequeno;9.5;40.0
+;Poodle Toy;mini;1.0;24.0
+;Poodle Medio;medio;12.0;35.0
+;Bloodhound;grande;47.0;60.0
+;Dobermann;grande;32.0;64.0
+;Mastim;gigante;55.0;72.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Collie;grande;18.0;51.0
+;Mastim;gigante;55.0;72.0
+;Bloodhound;grande;40.0;60.0
+;Akita;grande;30.0;58.0
+;Maltes;mini;3.0;20.0
+;Fila;gigante;46.0;60.0
+;Yorkshire;mini;2.0;20.0
+;Pastor Polones;medio;15.0;42.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Boxer;grande;30.0;54.0
+;Schnauzer Medio;medio;19.0;45.0
+;Affenpinscher;mini;3.0;25.0
+;Mastim;gigante;63.0;72.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Bichon Frise;mini;2.5;25.0
+;Akita;grande;30.0;58.0
+;Collie;grande;24.0;51.0
+;Dobermann;grande;32.0;63.0
+;Pastor Alemao;grande;30.0;58.0
+;Bichon Frise;mini;2.5;25.0
+;Border Colie;medio;19.0;47.0
+;Dobermann;grande;32.0;63.0
+;Pastor Alemao;grande;22.0;63.0
+;Chihuahua;mini;1.0;16.0
+;Dalmata;grande;24.0;56.0
+;Dobermann;grande;32.0;63.0
+;Shin Tsu;pequeno;1.0;9.0
+;Maltes;mini;3.0;20.0
+;Pug;pequeno;6.0;25.0
+;Chihuahua;mini;1.0;16.0
+;Affenpinscher;mini;2.0;25.0
+;Collie;grande;28.0;56.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Poodle Medio;medio;12.0;43.0
+;Shin Tsu;pequeno;2.0;22.0
+;Dobermann;grande;32.0;63.0
+;Pastor Polones;medio;15.0;42.0
+;Rafeiro do Alentejo;gigante;42.0;64.0
+;Shin Tsu;pequeno;1.0;8.0
+;Bloodhound;grande;47.0;60.0
+;Terra Nova;gigante;54.0;66.0
+;Chihuahua;mini;2.0;16.0
+;Boxer;grande;25.0;53.0
+;Mastim;gigante;55.0;72.0
+;Sao Bernardo;gigante;58.0;66.0
+;Pequines;pequeno;3.0;16.0
+;Poodle Toy;mini;2.0;24.0
+;Boxer;grande;25.0;53.0
+;Mastim;gigante;55.0;72.0
+;Bloodhound;grande;40.0;60.0
+;Affenpinscher;mini;1.0;25.0
+;Boxer;grande;25.0;53.0
+;Pug;pequeno;7.0;25.0
+;Bloodhound;grande;40.0;60.0
+;Chihuahua;mini;3.0;16.0
+;Poodle Toy;mini;1.0;24.0
+;Bull Terrier;medio;23.0;44.0
+;Bloodhound;grande;41.0;60.0
+;Bichon Frise;mini;2.5;25.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Pequines;pequeno;4.0;15.0
+;Lhasa Apso;pequeno;4.0;18.0
+;Dalmata;grande;24.0;54.0
+;Dobermann;grande;32.0;70.0
+;Pequines;pequeno;2.5;17.0
+;Komondor;gigante;40.0;65.0
+;Poodle Medio;medio;13.0;43.0
+;Bull Terrier;medio;23.0;35.0
+;Border Colie;medio;15.0;47.0
+;Shar Pei;medio;15.0;44.0
+;Mastim;gigante;55.0;72.0
+;Puli;medio;10.0;37.0
+;Affenpinscher;mini;1.0;25.0
+;Pastor Polones;medio;15.0;42.0
+;Schnauzer Medio;medio;14.0;45.0
+;Dalmata;grande;24.0;54.0
+;Dogue Alemao;gigante;69.0;72.0
+;Dogue Alemao;gigante;50.0;72.0
+;Chihuahua;mini;0.5;16.0
+;Maltes;mini;3.0;21.0
+;Puli;medio;10.0;36.0
+;Poodle Medio;medio;12.0;35.0
+;Puli;medio;10.0;36.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Lulu da Pomerania;mini;3.0;21.0
+;Collie;grande;18.0;51.0
+;Dalmata;grande;24.0;54.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Cocker Spaniel;pequeno;14.0;38.0
+;Dobermann;grande;39.0;63.0
+;Pastor Alemao;grande;22.0;55.0
+;Poodle Toy;mini;4.0;24.0
+;Border Colie;medio;15.0;47.0
+;Bichon Frise;mini;2.5;25.0
+;Pastor Polones;medio;18.0;42.0
+;Lulu da Pomerania;mini;3.0;18.0
+;Chihuahua;mini;2.0;17.0
+;Puli;medio;12.0;36.0
+;Beagle;pequeno;8.0;33.0
+;Affenpinscher;mini;3.0;25.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Akita;grande;30.0;58.0
+;Dobermann;grande;32.0;63.0
+;Affenpinscher;mini;3.0;25.0
+;Dobermann;grande;32.0;63.0
+;Pastor Polones;medio;15.0;42.0
+;Bichon Frise;mini;2.5;26.0
+;Pastor Polones;medio;15.0;42.0
+;Basenji;pequeno;9.5;40.0
+;Puli;medio;13.0;36.0
+;Dobermann;grande;32.0;63.0
+;Bichon Frise;mini;2.5;25.0
+;Puli;medio;10.0;36.0
+;Pequines;pequeno;2.5;18.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Terra Nova;gigante;54.0;66.0
+;Pug;pequeno;6.0;25.0
+;Poodle Medio;medio;12.0;35.0
+;Pequines;pequeno;2.5;15.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Affenpinscher;mini;3.0;25.0
+;Poodle Toy;mini;1.0;24.0
+;Dogue Alemao;gigante;60.0;72.0
+;Mastim;gigante;55.0;72.0
+;Dobermann;grande;38.0;72.0
+;Sao Bernardo;gigante;55.0;65.0
+;Poodle Toy;mini;3.0;27.0
+;Dogue Alemao;gigante;50.0;72.0
+;Basenji;pequeno;9.5;40.0
+;Yorkshire;mini;1.0;20.0
+;Beagle;pequeno;8.0;33.0
+;Pug;pequeno;6.0;25.0
+;Bloodhound;grande;40.0;60.0
+;Affenpinscher;mini;2.0;25.0
+;Shar Pei;medio;18.0;44.0
+;Terra Nova;gigante;54.0;66.0
+;Fila;gigante;45.0;64.0
+;Boxer;grande;25.0;54.0
+;Bloodhound;grande;40.0;60.0
+;Pastor Polones;medio;15.0;42.0
+;Beagle;pequeno;8.0;33.0
+;Shar Pei;medio;15.0;46.0
+;Pastor Polones;medio;15.0;42.0
+;Terra Nova;gigante;54.0;66.0
+;Dalmata;grande;24.0;54.0
+;Border Colie;medio;15.0;52.0
+;Sao Bernardo;gigante;55.0;84.0
+;Fila;gigante;47.0;60.0
+;Komondor;gigante;54.0;65.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Shin Tsu;pequeno;1.0;23.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Pug;pequeno;6.0;25.0
+;Collie;grande;20.0;51.0
+;Chihuahua;mini;2.0;16.0
+;Lulu da Pomerania;mini;2.0;18.0
+;Terra Nova;gigante;54.0;66.0
+;Boxer;grande;25.0;60.0
+;Boxer;grande;26.0;53.0
+;Affenpinscher;mini;1.0;26.0
+;Cocker Spaniel;pequeno;13.0;38.0
+;Shar Pei;medio;15.0;44.0
+;Lulu da Pomerania;mini;2.0;18.0
+;Basenji;pequeno;9.5;40.0
+;Maltes;mini;4.0;25.0
+;Pastor Alemao;grande;34.0;55.0
+;Fila;gigante;40.0;61.0
+;Poodle Toy;mini;4.0;24.0
+;Yorkshire;mini;3.0;20.0
+;Chihuahua;mini;0.5;16.0
+;Lulu da Pomerania;mini;2.0;18.0
+;Pastor Alemao;grande;22.0;55.0
+;Border Colie;medio;16.0;47.0
+;Bichon Frise;mini;3.0;25.0
+;Bull Terrier;medio;23.0;36.0
+;Puli;medio;10.0;44.0
+;Akita;grande;31.0;58.0
+;Poodle Medio;medio;12.0;36.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Yorkshire;mini;2.0;20.0
+;Pastor Polones;medio;15.0;42.0
+;Sao Bernardo;gigante;91.0;65.0
+;Mastim;gigante;55.0;72.0
+;Puli;medio;10.0;43.0
+;Chihuahua;mini;0.5;16.0
+;Akita;grande;33.0;58.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Pequines;pequeno;3.0;15.0
+;Pug;pequeno;6.0;27.0
+;Lhasa Apso;pequeno;4.0;18.0
+;Dalmata;grande;24.0;56.0
+;Bloodhound;grande;40.0;60.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Bloodhound;grande;44.0;60.0
+;Yorkshire;mini;1.0;20.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Akita;grande;30.0;61.0
+;Akita;grande;34.0;58.0
+;Maltes;mini;3.0;24.0
+;Bull Terrier;medio;25.0;35.0
+;Fila;gigante;41.0;60.0
+;Pequines;pequeno;5.0;15.0
+;Sao Bernardo;gigante;55.0;65.0
+;Border Colie;medio;15.0;47.0
+;Lulu da Pomerania;mini;1.0;18.0
+;Puli;medio;10.0;43.0
+;Yorkshire;mini;1.0;20.0
+;Beagle;pequeno;8.0;39.0
+;Poodle Toy;mini;3.0;24.0
+;Pastor Alemao;grande;22.0;55.0
+;Boxer;grande;25.0;53.0
+;Pug;pequeno;6.0;25.0
+;Shin Tsu;pequeno;1.0;9.0
+;Akita;grande;30.0;58.0
+;Schnauzer Medio;medio;14.0;45.0
+;Pequines;pequeno;2.5;15.0
+;Poodle Medio;medio;12.0;35.0
+;Fila;gigante;47.0;60.0
+;Poodle Medio;medio;12.0;35.0
+;Pastor Alemao;grande;35.0;64.0
+;Basenji;pequeno;9.5;40.0
+;Akita;grande;30.0;58.0
+;Affenpinscher;mini;1.0;25.0
+;Shar Pei;medio;15.0;44.0
+;Dobermann;grande;32.0;63.0
+;Pastor Alemao;grande;22.0;55.0
+;Basenji;pequeno;9.5;40.0
+;Poodle Medio;medio;12.0;35.0
+;Pastor Alemao;grande;26.0;55.0
+;Maltes;mini;3.0;24.0
+;Bloodhound;grande;40.0;60.0
+;Border Colie;medio;17.0;47.0
+;Poodle Toy;mini;4.0;24.0
+;Fila;gigante;40.0;60.0
+;Pug;pequeno;8.0;25.0
+;Lulu da Pomerania;mini;2.0;18.0
+;Dobermann;grande;32.0;63.0
+;Bloodhound;grande;40.0;60.0
+;Yorkshire;mini;2.0;20.0
+;Beagle;pequeno;8.0;33.0
+;Terra Nova;gigante;54.0;66.0
+;Bull Terrier;medio;23.0;35.0
+;Basenji;pequeno;9.5;40.0
+;Dalmata;grande;24.0;54.0
+;Basenji;pequeno;9.5;40.0
+;Puli;medio;10.0;36.0
+;Maltes;mini;4.0;20.0
+;Shin Tsu;pequeno;2.0;10.0
+;Bull Terrier;medio;23.0;35.0
+;Pequines;pequeno;2.5;21.0
+;Bichon Frise;mini;2.5;29.0
+;Pastor Polones;medio;15.0;42.0
+;Akita;grande;30.0;58.0
+;Bull Terrier;medio;23.0;35.0
+;Pequines;pequeno;5.0;25.0
+;Schnauzer Medio;medio;14.0;45.0
+;Dobermann;grande;32.0;63.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Fila;gigante;42.0;69.0
+;Boxer;grande;25.0;53.0
+;Akita;grande;30.0;58.0
+;Beagle;pequeno;8.0;33.0
+;Akita;grande;44.0;58.0
+;Dogue Alemao;gigante;50.0;72.0
+;Dobermann;grande;32.0;63.0
+;Shin Tsu;pequeno;2.0;7.3
+;Shar Pei;medio;15.0;44.0
+;Dobermann;grande;32.0;63.0
+;Poodle Toy;mini;2.0;24.0
+;Lulu da Pomerania;mini;2.0;18.0
+;Pug;pequeno;6.0;25.0
+;Mastim;gigante;60.0;72.0
+;Mastim;gigante;55.0;72.0
+;Puli;medio;13.0;36.0
+;Dobermann;grande;32.0;63.0
+;Affenpinscher;mini;2.0;27.0
+;Cocker Spaniel;pequeno;12.5;38.0
+;Komondor;gigante;40.0;65.0
+;Mastim;gigante;55.0;72.0
+;Poodle Medio;medio;14.0;35.0
+;Beagle;pequeno;12.0;33.0
+;Chihuahua;mini;1.0;16.0
+;Cocker Spaniel;pequeno;13.0;38.0
+;Poodle Medio;medio;12.0;35.0
+;Dalmata;grande;24.0;54.0
+;Sao Bernardo;gigante;83.0;65.0
+;Boxer;grande;25.0;53.0
+;Chihuahua;mini;0.5;18.0
+;Basenji;pequeno;11.0;40.0
+;Bichon Frise;mini;2.5;25.0
+;Akita;grande;30.0;58.0
+;Pastor Polones;medio;16.0;42.0
+;Bull Terrier;medio;23.0;35.0
+;Akita;grande;41.0;58.0
+;Beagle;pequeno;8.0;33.0
+;Collie;grande;18.0;51.0
+;Lulu da Pomerania;mini;1.0;19.0
+;Schnauzer Medio;medio;17.0;45.0
+;Akita;grande;34.0;58.0
+;Fila;gigante;40.0;60.0
+;Bloodhound;grande;40.0;60.0
+;Poodle Toy;mini;4.0;24.0
+;Akita;grande;47.0;58.0
+;Maltes;mini;3.0;20.0
+;Shin Tsu;pequeno;2.0;12.0
+;Pastor Polones;medio;15.0;42.0
+;Boxer;grande;27.0;61.0
+;Rafeiro do Alentejo;gigante;50.0;64.0
+;Akita;grande;48.0;61.0
+;Pequines;pequeno;4.0;16.0
+;Affenpinscher;mini;2.0;29.0
+;Rafeiro do Alentejo;gigante;35.0;64.0
+;Bichon Frise;mini;2.5;25.0
+;Boxer;grande;25.0;53.0
+;Lhasa Apso;pequeno;4.0;19.0
+;Pastor Polones;medio;15.0;42.0
+;Schnauzer Medio;medio;17.0;50.0
+;Pug;pequeno;6.0;25.0
+;Beagle;pequeno;8.0;33.0
+;Pug;pequeno;6.0;25.0
+;Pequines;pequeno;2.5;15.0
+;Akita;grande;30.0;58.0
+;Akita;grande;50.0;58.0
+;Yorkshire;mini;1.0;20.0
+;Pug;pequeno;6.0;25.0
+;Pug;pequeno;7.0;26.0
+;Akita;grande;30.0;58.0
+;Terra Nova;gigante;54.0;66.0
+;Lhasa Apso;pequeno;4.0;21.0
+;Poodle Medio;medio;15.0;35.0
+;Pequines;pequeno;2.5;15.0
+;Boxer;grande;25.0;53.0
+;Pug;pequeno;6.0;25.0
+;Boxer;grande;25.0;53.0
+;Border Colie;medio;15.0;47.0
+;Border Colie;medio;15.0;47.0
+;Mastim;gigante;55.0;72.0
+;Pug;pequeno;6.0;25.0
+;Terra Nova;gigante;54.0;66.0
+;Pastor Polones;medio;16.0;42.0

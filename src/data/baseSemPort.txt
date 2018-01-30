@@ -1,0 +1,500 @@
+Franca;Poodle Toy;;2.0;24.0
+Suica;Sao Bernardo;;55.0;73.0
+Alemanha;Dogue Alemao;;53.0;72.0
+Alemanha;Pastor Alemao;;22.0;55.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Polonia;Pastor Polones;;16.0;42.0
+Canada;Terra Nova;;54.0;66.0
+Belgica;Bloodhound;;40.0;60.0
+China;Pug;;6.0;25.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Hungria;Puli;;10.0;36.0
+Belgica;Bloodhound;;40.0;60.0
+china;Shin Tsu;;2.0;23.0
+Tibet;Lhasa Apso;;4.0;18.0
+Canada;Terra Nova;;54.0;66.0
+Gra-Bretania;Collie;;25.0;51.0
+Alemanha;Boxer;;25.0;53.0
+Hungria;Komondor;;40.0;65.0
+Croacia;Dalmata;;24.0;54.0
+Alemanha;Affenpinscher;;1.0;26.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Canada;Terra Nova;;54.0;66.0
+Brasil;Fila;;40.0;60.0
+Tibet;Lhasa Apso;;4.0;18.0
+Gra-Bretania;Beagle;;8.0;33.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Franca;Poodle Medio;;12.0;44.0
+Gra-Bretania;Akita;;30.0;58.0
+Hungria;Komondor;;40.0;65.0
+Gra-Bretania;Collie;;18.0;51.0
+china;Shin Tsu;;1.0;15.0
+Gra-Bretania;Beagle;;8.0;33.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+Gra-Bretania;Bull Terrier;;23.0;50.0
+Tibet;Lhasa Apso;;4.0;22.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Hungria;Puli;;10.0;36.0
+Franca;Poodle Medio;;13.0;35.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Gra-Bretania;Cocker Spaniel;;12.5;39.0
+Alemanha;Affenpinscher;;1.0;25.0
+china;Shin Tsu;;2.0;12.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Brasil;Fila;;40.0;60.0
+Belgica;Bloodhound;;40.0;60.0
+Gra-Bretania;Akita;;30.0;58.0
+Hungria;Puli;;14.0;36.0
+Polonia;Pastor Polones;;20.0;42.0
+Mexico;Chihuahua;;3.0;16.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+Hungria;Puli;;10.0;36.0
+Suica;Sao Bernardo;;55.0;65.0
+Hungria;Puli;;10.0;36.0
+Mexico;Chihuahua;;3.0;16.0
+Tibet;Lhasa Apso;;4.0;19.0
+Alemanha;Boxer;;25.0;53.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Akita;;44.0;58.0
+Croacia;Dalmata;;24.0;54.0
+Alemanha;Dobermann;;32.0;63.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Canada;Terra Nova;;54.0;66.0
+Mexico;Chihuahua;;3.0;16.0
+Gra-Bretania;Beagle;;13.0;39.0
+Mexico;Chihuahua;;3.0;20.0
+Alemanha;Dobermann;;32.0;63.0
+Italia;Maltes;;3.0;20.0
+china;Shin Tsu;;1.0;25.0
+Espanha;Mastim;;55.0;72.0
+Alemanha;Boxer;;25.0;61.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Gra-Bretania;Collie;;18.0;51.0
+Alemanha;Schnauzer Medio;;18.0;45.0
+Tibet;Lhasa Apso;;4.0;18.0
+Hungria;Komondor;;57.0;65.0
+Alemanha;Affenpinscher;;1.0;25.0
+Tibet;Lhasa Apso;;4.0;18.0
+Italia;Maltes;;3.0;20.0
+Alemanha;Boxer;;25.0;53.0
+china;Shin Tsu;;3.0;7.3
+Franca;Poodle Medio;;13.0;35.0
+Gra-Bretania;Akita;;30.0;58.0
+Franca;Poodle Toy;;2.0;25.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Gra-Bretania;Akita;;30.0;65.0
+Alemanha;Dobermann;;32.0;63.0
+Franca;Poodle Toy;;1.0;24.0
+Mexico;Chihuahua;;3.0;16.0
+Gra-Bretania;Beagle;;8.0;33.0
+Italia;Maltes;;3.0;20.0
+China;Pequines;;4.0;17.0
+Franca;Bichon Frise;;2.5;25.0
+Franca;Poodle Medio;;15.0;35.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Hungria;Komondor;;40.0;67.0
+China;Pug;;7.0;27.0
+Mexico;Chihuahua;;3.0;16.0
+Franca;Poodle Medio;;12.0;35.0
+Brasil;Fila;;40.0;60.0
+Franca;Poodle Toy;;1.0;24.0
+Franca;Poodle Medio;;13.0;35.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+Canada;Terra Nova;;54.0;66.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Gra-Bretania;Beagle;;12.0;33.0
+Alemanha;Boxer;;30.0;53.0
+Franca;Bichon Frise;;3.0;25.0
+Gra-Bretania;Akita;;30.0;58.0
+Polonia;Pastor Polones;;15.0;42.0
+Belgica;Bloodhound;;40.0;60.0
+Franca;Bichon Frise;;2.5;25.0
+Gra-Bretania;Yorkshire;;3.0;20.0
+Gra-Bretania;Akita;;30.0;58.0
+Alemanha;Dogue Alemao;;50.0;72.0
+China;Shar Pei;;15.0;44.0
+China;Pug;;6.0;25.0
+Franca;Poodle Toy;;6.0;28.0
+Hungria;Komondor;;40.0;65.0
+Hungria;Komondor;;40.0;65.0
+Alemanha;Affenpinscher;;1.0;25.0
+China;Pug;;6.0;25.0
+Brasil;Fila;;40.0;68.0
+Brasil;Fila;;40.0;60.0
+Suica;Sao Bernardo;;55.0;65.0
+Gra-Bretania;Akita;;48.0;58.0
+china;Shin Tsu;;2.0;7.3
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Gra-Bretania;Collie;;23.0;51.0
+Belgica;Bloodhound;;40.0;60.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Franca;Poodle Medio;;15.0;35.0
+Alemanha;Dobermann;;33.0;63.0
+Suica;Sao Bernardo;;55.0;79.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Akita;;30.0;58.0
+China;Pequines;;5.0;15.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Hungria;Puli;;10.0;36.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Belgica;Bloodhound;;40.0;60.0
+china;Shin Tsu;;3.0;25.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Gra-Bretania;Collie;;28.0;51.0
+China;Pug;;7.0;25.0
+Franca;Bichon Frise;;2.5;25.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Gra-Bretania;Akita;;30.0;58.0
+Espanha;Mastim;;55.0;73.0
+Italia;Maltes;;3.0;20.0
+Franca;Poodle Medio;;12.0;35.0
+Suica;Sao Bernardo;;79.0;65.0
+Hungria;Puli;;10.0;36.0
+Tibet;Lhasa Apso;;7.0;24.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Beagle;;10.0;33.0
+Franca;Poodle Medio;;12.0;35.0
+Franca;Poodle Medio;;12.0;44.0
+Gra-Bretania;Collie;;22.0;51.0
+Tibet;Lhasa Apso;;4.0;18.0
+Gra-Bretania;Beagle;;11.0;33.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Croacia;Dalmata;;24.0;61.0
+Alemanha;Lulu da Pomerania;;3.0;22.0
+China;Pequines;;5.0;15.0
+Gra-Bretania;Border Colie;;15.0;50.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Alemanha;Boxer;;25.0;53.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Canada;Terra Nova;;54.0;70.0
+Italia;Maltes;;3.0;20.0
+Croacia;Dalmata;;25.0;54.0
+Mexico;Chihuahua;;3.0;16.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Hungria;Puli;;14.0;36.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Croacia;Dalmata;;24.0;54.0
+china;Shin Tsu;;2.0;7.3
+Gra-Bretania;Bull Terrier;;23.0;43.0
+china;Shin Tsu;;3.0;13.0
+Hungria;Komondor;;40.0;65.0
+Africa;Basenji;;11.0;40.0
+Gra-Bretania;Bull Terrier;;23.0;49.0
+Brasil;Fila;;48.0;60.0
+Polonia;Pastor Polones;;15.0;42.0
+Hungria;Komondor;;40.0;65.0
+Gra-Bretania;Yorkshire;;1.0;22.0
+Alemanha;Lulu da Pomerania;;1.0;19.0
+Hungria;Puli;;10.0;36.0
+Hungria;Komondor;;42.0;65.0
+Franca;Poodle Toy;;1.0;24.0
+Alemanha;Lulu da Pomerania;;2.0;18.0
+Hungria;Puli;;10.0;37.0
+Alemanha;Affenpinscher;;1.0;29.0
+Gra-Bretania;Yorkshire;;3.0;20.0
+Alemanha;Dobermann;;32.0;63.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Alemanha;Pastor Alemao;;39.0;55.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Canada;Terra Nova;;54.0;66.0
+Franca;Poodle Toy;;5.0;24.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+Hungria;Komondor;;55.0;65.0
+Gra-Bretania;Akita;;30.0;58.0
+China;Pug;;7.0;25.0
+Alemanha;Lulu da Pomerania;;2.0;18.0
+china;Shin Tsu;;1.0;9.0
+China;Pequines;;2.5;15.0
+Gra-Bretania;Collie;;27.0;51.0
+Portugal;Rafeiro do Alentejo;;41.0;64.0
+Alemanha;Lulu da Pomerania;;2.0;18.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Gra-Bretania;Akita;;30.0;58.0
+Alemanha;Pastor Alemao;;22.0;55.0
+china;Shin Tsu;;1.0;18.0
+Hungria;Puli;;11.0;36.0
+Gra-Bretania;Beagle;;10.0;33.0
+Gra-Bretania;Beagle;;8.0;33.0
+Alemanha;Affenpinscher;;1.0;29.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Croacia;Dalmata;;24.0;54.0
+Hungria;Puli;;12.0;36.0
+Franca;Poodle Medio;;12.0;35.0
+Hungria;Komondor;;60.0;65.0
+Alemanha;Boxer;;25.0;53.0
+Belgica;Bloodhound;;40.0;60.0
+China;Shar Pei;;15.0;44.0
+Gra-Bretania;Yorkshire;;3.0;20.0
+Gra-Bretania;Collie;;22.0;51.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Hungria;Puli;;12.0;36.0
+Africa;Basenji;;9.5;40.0
+China;Pequines;;4.0;18.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Belgica;Bloodhound;;40.0;60.0
+Canada;Terra Nova;;54.0;66.0
+Canada;Terra Nova;;54.0;66.0
+Alemanha;Dobermann;;32.0;63.0
+Africa;Basenji;;9.5;40.0
+Italia;Maltes;;3.0;20.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Suica;Sao Bernardo;;62.0;70.0
+Gra-Bretania;Collie;;18.0;51.0
+Gra-Bretania;Akita;;30.0;68.0
+China;Pequines;;2.5;15.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+China;Pequines;;2.5;19.0
+Alemanha;Dobermann;;39.0;63.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+China;Pequines;;2.5;15.0
+Gra-Bretania;Beagle;;8.0;33.0
+Franca;Bichon Frise;;3.0;29.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Suica;Sao Bernardo;;96.0;65.0
+Italia;Maltes;;3.0;20.0
+china;Shin Tsu;;2.0;11.0
+Alemanha;Dobermann;;32.0;63.0
+Hungria;Komondor;;45.0;65.0
+Hungria;Komondor;;45.0;65.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Border Colie;;19.0;47.0
+Franca;Bichon Frise;;2.5;25.0
+China;Shar Pei;;15.0;44.0
+Alemanha;Dogue Alemao;;59.0;72.0
+Canada;Terra Nova;;54.0;66.0
+Franca;Poodle Toy;;3.0;24.0
+Suica;Sao Bernardo;;55.0;65.0
+Gra-Bretania;Border Colie;;15.0;47.0
+Alemanha;Boxer;;25.0;53.0
+Espanha;Mastim;;55.0;72.0
+China;Pequines;;5.0;15.0
+China;Shar Pei;;15.0;48.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+Tibet;Lhasa Apso;;4.0;18.0
+Portugal;Rafeiro do Alentejo;;45.0;64.0
+Franca;Bichon Frise;;2.5;25.0
+Africa;Basenji;;9.5;40.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Alemanha;Pastor Alemao;;28.0;55.0
+Canada;Terra Nova;;54.0;66.0
+china;Shin Tsu;;1.0;15.0
+Tibet;Lhasa Apso;;5.0;18.0
+Alemanha;Dobermann;;43.0;63.0
+Gra-Bretania;Yorkshire;;1.0;20.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Alemanha;Boxer;;25.0;53.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Italia;Maltes;;3.0;20.0
+Italia;Maltes;;3.0;20.0
+Alemanha;Affenpinscher;;4.0;29.0
+Alemanha;Boxer;;25.0;54.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Hungria;Puli;;10.0;36.0
+Belgica;Bloodhound;;43.0;60.0
+Hungria;Komondor;;40.0;65.0
+China;Shar Pei;;19.0;44.0
+China;Pug;;6.0;25.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Collie;;23.0;51.0
+Franca;Bichon Frise;;2.5;25.0
+Italia;Maltes;;3.0;20.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Croacia;Dalmata;;25.0;54.0
+Gra-Bretania;Beagle;;8.0;33.0
+Gra-Bretania;Beagle;;8.0;33.0
+Italia;Maltes;;3.0;20.0
+Canada;Terra Nova;;54.0;66.0
+Franca;Poodle Medio;;12.0;42.0
+Gra-Bretania;Yorkshire;;2.0;20.0
+Italia;Maltes;;3.0;20.0
+Gra-Bretania;Bull Terrier;;28.0;45.0
+Alemanha;Boxer;;25.0;53.0
+Alemanha;Boxer;;25.0;54.0
+Alemanha;Dogue Alemao;;50.0;75.0
+Gra-Bretania;Bull Terrier;;23.0;35.0
+Mexico;Chihuahua;;2.0;16.0
+Polonia;Pastor Polones;;15.0;42.0
+Croacia;Dalmata;;24.0;54.0
+china;Shin Tsu;;1.0;9.0
+Alemanha;Dobermann;;32.0;63.0
+Tibet;Lhasa Apso;;4.0;20.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Canada;Terra Nova;;54.0;66.0
+Alemanha;Lulu da Pomerania;;3.0;18.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Espanha;Mastim;;55.0;72.0
+Hungria;Puli;;10.0;36.0
+Espanha;Mastim;;56.0;72.0
+Gra-Bretania;Collie;;18.0;51.0
+Italia;Maltes;;4.0;23.0
+Africa;Basenji;;9.5;40.0
+Gra-Bretania;Beagle;;13.0;33.0
+Gra-Bretania;Collie;;22.0;51.0
+Tibet;Lhasa Apso;;6.0;18.0
+Gra-Bretania;Yorkshire;;2.0;23.0
+Alemanha;Affenpinscher;;3.0;25.0
+Franca;Bichon Frise;;3.0;25.0
+Croacia;Dalmata;;24.0;54.0
+Alemanha;Affenpinscher;;4.0;25.0
+Croacia;Dalmata;;24.0;54.0
+Franca;Bichon Frise;;2.5;25.0
+Hungria;Komondor;;40.0;65.0
+Hungria;Puli;;10.0;36.0
+Suica;Sao Bernardo;;55.0;65.0
+Belgica;Bloodhound;;40.0;60.0
+Alemanha;Affenpinscher;;4.0;25.0
+Belgica;Bloodhound;;40.0;60.0
+Africa;Basenji;;9.5;40.0
+Alemanha;Affenpinscher;;1.0;25.0
+Gra-Bretania;Border Colie;;20.0;47.0
+Mexico;Chihuahua;;0.5;18.0
+Gra-Bretania;Yorkshire;;1.0;22.0
+Gra-Bretania;Collie;;26.0;51.0
+Polonia;Pastor Polones;;15.0;42.0
+Gra-Bretania;Beagle;;8.0;39.0
+Alemanha;Lulu da Pomerania;;2.0;18.0
+Hungria;Puli;;14.0;36.0
+Alemanha;Dobermann;;32.0;63.0
+Alemanha;Affenpinscher;;1.0;25.0
+Belgica;Bloodhound;;40.0;60.0
+Franca;Bichon Frise;;3.0;28.0
+Mexico;Chihuahua;;1.0;19.0
+Portugal;Rafeiro do Alentejo;;45.0;64.0
+China;Shar Pei;;17.0;44.0
+Franca;Bichon Frise;;2.5;25.0
+Gra-Bretania;Cocker Spaniel;;12.5;41.0
+Alemanha;Lulu da Pomerania;;2.0;18.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+Brasil;Fila;;40.0;60.0
+china;Shin Tsu;;1.0;25.0
+Espanha;Mastim;;55.0;72.0
+Alemanha;Dobermann;;32.0;63.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+Mexico;Chihuahua;;2.0;16.0
+Gra-Bretania;Beagle;;8.0;33.0
+Canada;Terra Nova;;54.0;66.0
+Gra-Bretania;Akita;;30.0;58.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Belgica;Bloodhound;;40.0;60.0
+Italia;Maltes;;3.0;20.0
+Canada;Terra Nova;;54.0;66.0
+Italia;Maltes;;4.0;20.0
+Portugal;Rafeiro do Alentejo;;45.0;64.0
+Polonia;Pastor Polones;;15.0;42.0
+Brasil;Fila;;40.0;60.0
+Suica;Sao Bernardo;;55.0;65.0
+Croacia;Dalmata;;24.0;57.0
+Croacia;Dalmata;;24.0;54.0
+Alemanha;Boxer;;25.0;53.0
+Alemanha;Pastor Alemao;;27.0;55.0
+Brasil;Fila;;40.0;60.0
+Gra-Bretania;Beagle;;10.0;33.0
+China;Pequines;;3.0;15.0
+Gra-Bretania;Collie;;20.0;51.0
+Gra-Bretania;Yorkshire;;3.0;20.0
+Gra-Bretania;Beagle;;11.0;33.0
+Franca;Poodle Toy;;3.0;24.0
+Hungria;Puli;;10.0;36.0
+Hungria;Puli;;13.0;36.0
+Suica;Sao Bernardo;;55.0;65.0
+Portugal;Rafeiro do Alentejo;;49.0;64.0
+Gra-Bretania;Border Colie;;16.0;47.0
+Alemanha;Lulu da Pomerania;;3.0;18.0
+Alemanha;Pastor Alemao;;36.0;55.0
+Mexico;Chihuahua;;1.0;19.0
+Gra-Bretania;Cocker Spaniel;;12.5;41.0
+china;Shin Tsu;;1.0;12.0
+Alemanha;Boxer;;25.0;53.0
+China;Shar Pei;;15.0;44.0
+Franca;Poodle Toy;;6.0;25.0
+Alemanha;Schnauzer Medio;;19.0;45.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Gra-Bretania;Beagle;;8.0;38.0
+Belgica;Bloodhound;;40.0;60.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Gra-Bretania;Collie;;18.0;51.0
+Alemanha;Pastor Alemao;;22.0;55.0
+Africa;Basenji;;9.5;40.0
+Franca;Bichon Frise;;2.5;28.0
+Alemanha;Affenpinscher;;4.0;25.0
+Franca;Poodle Medio;;12.0;35.0
+China;Shar Pei;;15.0;46.0
+Alemanha;Dobermann;;32.0;63.0
+Alemanha;Boxer;;25.0;53.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+china;Shin Tsu;;1.0;7.3
+Gra-Bretania;Collie;;18.0;51.0
+Alemanha;Boxer;;25.0;53.0
+Hungria;Puli;;15.0;40.0
+Gra-Bretania;Akita;;30.0;58.0
+Suica;Sao Bernardo;;55.0;65.0
+Suica;Sao Bernardo;;55.0;65.0
+Gra-Bretania;Yorkshire;;3.0;20.0
+Franca;Poodle Medio;;12.0;35.0
+Alemanha;Pastor Alemao;;30.0;55.0
+Alemanha;Pastor Alemao;;22.0;55.0
+Belgica;Bloodhound;;40.0;60.0
+Canada;Terra Nova;;61.0;66.0
+Mexico;Chihuahua;;2.0;20.0
+Alemanha;Pastor Alemao;;36.0;55.0
+Gra-Bretania;Border Colie;;15.0;47.0
+China;Pequines;;2.5;15.0
+Tibet;Lhasa Apso;;4.0;18.0
+Suica;Sao Bernardo;;86.0;67.0
+Gra-Bretania;Akita;;30.0;58.0
+Italia;Maltes;;3.0;20.0
+Alemanha;Affenpinscher;;1.0;25.0
+Franca;Poodle Toy;;3.0;24.0
+Croacia;Dalmata;;24.0;54.0
+Suica;Sao Bernardo;;55.0;76.0
+China;Pequines;;3.0;20.0
+Franca;Poodle Medio;;12.0;40.0
+Alemanha;Dobermann;;32.0;63.0
+Alemanha;Boxer;;25.0;53.0
+Gra-Bretania;Akita;;30.0;58.0
+Alemanha;Lulu da Pomerania;;1.0;18.0
+Hungria;Puli;;13.0;36.0
+Franca;Poodle Medio;;12.0;35.0
+Alemanha;Schnauzer Medio;;14.0;45.0
+Mexico;Chihuahua;;3.0;19.0
+Gra-Bretania;Akita;;37.0;58.0
+Canada;Terra Nova;;54.0;66.0
+Alemanha;Affenpinscher;;2.0;25.0
+Polonia;Pastor Polones;;15.0;42.0
+Mexico;Chihuahua;;0.5;16.0
+Franca;Bichon Frise;;2.5;25.0
+Alemanha;Boxer;;29.0;53.0
+China;Shar Pei;;16.0;44.0
+china;Shin Tsu;;3.0;14.0
+Alemanha;Dogue Alemao;;50.0;72.0
+Polonia;Pastor Polones;;15.0;42.0
+Africa;Basenji;;10.0;40.0
+Suica;Sao Bernardo;;56.0;65.0
+Suica;Sao Bernardo;;55.0;65.0
+Alemanha;Boxer;;25.0;53.0
+China;Shar Pei;;17.0;44.0
+Alemanha;Dobermann;;32.0;63.0
+Alemanha;Affenpinscher;;4.0;25.0
+Franca;Poodle Toy;;1.0;24.0
+Gra-Bretania;Akita;;46.0;58.0
+Gra-Bretania;Collie;;18.0;56.0
+Gra-Bretania;Beagle;;9.0;33.0
+Portugal;Rafeiro do Alentejo;;35.0;64.0
+Croacia;Dalmata;;27.0;54.0
+China;Pug;;7.0;25.0
+Gra-Bretania;Cocker Spaniel;;12.5;38.0
+Alemanha;Boxer;;25.0;53.0
+China;Shar Pei;;20.0;44.0
+Canada;Terra Nova;;54.0;71.0
+Espanha;Mastim;;55.0;72.0
