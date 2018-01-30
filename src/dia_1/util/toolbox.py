@@ -17,7 +17,7 @@ class Carry():
             :rtype: Pandas.DataFrame()
         '''
         
-        temp = pd.read_csv('../data/baseClassificada.txt', '\t', ';')
+        temp = pd.read_csv('data/baseClassificada.txt', '\t', ';')
         
         temp.columns = ['pais', 'raca', 'porte', 'altura', 'peso']
 
@@ -33,7 +33,7 @@ class Carry():
             :rtype: Pandas.DataFrame() 
         '''
 
-        temp = pd.read_csv('../data/baseSemPort.txt', '\t', ';')
+        temp = pd.read_csv('data/baseSemPort.txt', '\t', ';')
 
         temp.columns = ['pais', 'raca', 'porte', 'altura', 'peso']
 
